@@ -2,105 +2,120 @@
   {
     "name": ".NET DeveloperDays",
     "url": "http://net.developerdays.pl/",
-    "date": "18-19 Sep 2018",
+    "datefrom": "2018-09-18",
+    "dateto": "2018-09-19",
     "flag": "pl",
     "location": "Warsaw, Poland"
   },
   {
     "name": "BASTA",
     "url": "https://basta.net/net-framework-c/",
-    "date": "24-28 Sep 2018",
+    "datefrom": "2018-09-24",
+    "dateto": "2018-09-28",
     "flag": "de",
     "location": "Mainz, Germany"
   },
   {
     "name": "CloudBrew",
     "url": "https://www.cloudbrew.be/",
-    "date": "12-13 Oct 2018",
+    "datefrom": "2018-10-12",
+    "dateto": "2018-10-13",
     "flag": "be",
     "location": "Mechelen, Belgium"
   },
   {
     "name": "Leetspeak 2018",
     "url": "https://leetspeak.se/2018/",
-    "date": "13 Oct 2018",
+    "datefrom": "2018-10-13",
+    "dateto": "2018-10-13",
     "flag": "se",
     "location": "Malmö, Sweden"
   },
   {
     "name": ".NET Fest",
     "url": "http://dotnetfest.com/indexe.html",
-    "date": "26-27 Oct 2018",
+    "datefrom": "2018-10-26",
+    "dateto": "2018-10-27",
     "flag": "ua",
     "location": "Kiev, Ukraine"
   },
   {
     "name": "DevReach",
     "url": "https://devreach.com/",
-    "date": "13-14 Nov 2018",
+    "datefrom": "2018-11-13",
+    "dateto": "2018-11-14",
     "flag": "bg",
     "location": "Sofia, Bulgaria"
   },
   {
     "name": "SDD",
     "url": "https://sddconf.com/",
-    "date": "13-15 Nov 2018",
+    "datefrom": "2018-11-13",
+    "dateto": "2018-11-15",
     "flag": "gb",
     "location": "London, United Kingdom"
   },
   {
     "name": "Codecamp",
     "url": "https://chisinau.codecamp.ro/",
-    "date": "17 Nov 2018",
+    "datefrom": "2018-11-17",
+    "dateto": "2018-11-17",
     "flag": "md",
     "location": "Chișinău, Moldova"
   },
   {
     "name": "Update Conference",
     "url": "https://www.updateconference.net/",
-    "date": "22-23 Nov 2018",
+    "datefrom": "2018-11-22",
+    "dateto": "2018-11-23",
     "flag": "cz",
     "location": "Prague, Czech Republic"
   },
   {
     "name": "ÖreDev",
     "url": "http://oredev.org/2018/",
-    "date": "19-22 Nov 2018",
+    "datefrom": "2018-11-19",
+    "dateto": "2018-11-22",
     "flag": "se",
     "location": "Malmö, Sweden"
   },
   {
     "name": "DotNext 2018 Moscow",
     "url": "https://dotnext-moscow.ru/en/",
-    "date": "22-23 Nov 2018",
+    "datefrom": "2018-11-22",
+    "dateto": "2018-11-23",
     "flag": "ru",
     "location": "Moscow, Russia"
   },
   {
     "name": "DevTernity",
     "url": "https://devternity.com/",
-    "date": "30 Nov-1 Dec 2018",
+    "datefrom": "2018-11-30",
+    "dateto": "2018-12-01",
     "flag": "lv",
     "location": "Riga, Latvia"
   },
   {
     "name": "DEVintersection",
     "url": "https://devintersection.com/",
-    "date": "3-6 Dec 2018",
+    "datefrom": "2018-12-03",
+    "dateto": "2018-12-06",
     "flag": "us",
     "location": "Las Vegas, US"
   },
   {
     "name": "XP Days Ukraine",
     "url": "https://xpdays.com.ua/",
-    "date": "7-8 Dec 2018",
+    "datefrom": "2018-12-07",
+    "dateto": "2018-12-08",
     "flag": "ua",
     "location": "Kiev, Ukraine"
   },
   {
     "name": "NDC London",
     "url": "https://ndc-london.com/",
-    "date": "28 Jan-1 Feb 2019",
+    "datefrom": "2019-01-28",
+    "dateto": "2019-02-01",
     "flag": "gb",
     "location": "London, United Kingdom"
   }

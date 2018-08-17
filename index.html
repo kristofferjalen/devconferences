@@ -61,22 +61,35 @@
 			    xhr.send();
 			};
 
+			var getFormattedDate = function(from, to) {
+				var locale = "en-us",
+					monthFrom = from.toLocaleString(locale, { month: "short" }),
+					monthTo = to.toLocaleString(locale, { month: "short" });
+
+				return from.getDate() + (monthFrom != monthTo ? " " + monthFrom : "" ) + (from.getFullYear() != to.getFullYear() ? " " + from.getFullYear() : "") + "-" + to.getDate() + " " + (monthTo) + " " + from.getFullYear();
+			}
+
 			getJSON('data.json',
 				function(err, data) {
 				  if (err !== null) {
 				    console.log('Something went wrong: ' + err);
 				  } else {
 
-				    var table = document.getElementById("conferences").getElementsByTagName('tbody')[0];
+				    var table = document.getElementById("conferences").getElementsByTagName('tbody')[0],
+				    	rows = 0;
 
 					for (var i = 0; i < data.length; i++) {
-					    var row = table.insertRow(i);
+
+						if (new Date(data[i].dateto) < Date.now())
+							continue;
+
+					    var row = table.insertRow(rows++);
 
 					    var cell0 = row.insertCell(0);
 					    cell0.innerHTML = '<a href="' + data[i].url + '">' + data[i].name + '</a>';
 
 					    var cell1 = row.insertCell(1);
-  						cell1.appendChild(document.createTextNode(data[i].date));
+  						cell1.appendChild(document.createTextNode(getFormattedDate(new Date(data[i].datefrom), new Date(data[i].dateto))));
 
 					    var cell2 = row.insertCell(2);
 					    cell2.innerHTML = '<span class="flag-icon flag-icon-' + data[i].flag + '"></span>' + data[i].location;
