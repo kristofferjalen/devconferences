@@ -134,5 +134,13 @@
     "dateto": "2019-03-13",
     "flag": "nl",
     "location": "Jaarbeurs Utrecht, the Netherlands"
+  },
+  {
+    "name": "DevConf 2018",
+    "url": "http://devconf.pl/",
+    "datefrom": "2018-09-26",
+    "dateto": "2018-09-28",
+    "flag": "pl",
+    "location": "Kraków, Poland"
   }
 ]
