@@ -118,5 +118,13 @@
     "dateto": "2019-02-01",
     "flag": "gb",
     "location": "London, United Kingdom"
+  },
+  {
+    "name": "NDC Oslo",
+    "url": "https://ndcoslo.com/",
+    "datefrom": "2019-06-17",
+    "dateto": "2019-06-21",
+    "flag": "no",
+    "location": "Oslo, Norway"
   }
 ]
