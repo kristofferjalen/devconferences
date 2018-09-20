@@ -126,5 +126,13 @@
     "dateto": "2019-06-21",
     "flag": "no",
     "location": "Oslo, Norway"
+  },
+  {
+    "name": "Future Tech 2019",
+    "url": "https://www.papercall.io/futuretech/",
+    "datefrom": "2019-03-13",
+    "dateto": "2019-03-13",
+    "flag": "nl",
+    "location": "Jaarbeurs Utrecht, the Netherlands"
   }
 ]
