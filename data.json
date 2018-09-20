@@ -142,5 +142,13 @@
     "dateto": "2018-09-28",
     "flag": "pl",
     "location": "Kraków, Poland"
+  },
+  {
+    "name": "CodeMash",
+    "url": "https://www.codemash.org/",
+    "datefrom": "2019-01-08",
+    "dateto": "2019-01-11",
+    "flag": "us",
+    "location": "Sandusky, Ohio, USA"
   }
 ]
