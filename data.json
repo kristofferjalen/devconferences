@@ -129,7 +129,7 @@
   },
   {
     "name": "Future Tech 2019",
-    "url": "https://www.papercall.io/futuretech/",
+    "url": "https://futuretech.nl/",
     "datefrom": "2019-03-13",
     "dateto": "2019-03-13",
     "flag": "nl",
@@ -150,5 +150,13 @@
     "dateto": "2019-01-11",
     "flag": "us",
     "location": "Sandusky, Ohio, USA"
+  },
+  {
+    "name": "CodeFest 2019",
+    "url": "https://2019.codefest.ru/",
+    "datefrom": "2019-03-30",
+    "dateto": "2019-03-31",
+    "flag": "ru",
+    "location": "Novosibirsk, Russia"
   }
 ]
