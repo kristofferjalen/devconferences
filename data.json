@@ -174,5 +174,13 @@
     "dateto": "2019-10-23",
     "flag": "pl",
     "location": "Warsaw, Poland"
+  },
+  {
+    "name": "Swetugg",
+    "url": "https://swetugg.se/",
+    "datefrom": "2019-02-07",
+    "dateto": "2019-02-08",
+    "flag": "se",
+    "location": "Stockholm, Sweden"
   }
 ]
