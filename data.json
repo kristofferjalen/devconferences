@@ -166,5 +166,13 @@
     "dateto": "2019-05-22",
     "flag": "be",
     "location": "Antwerp, Belgium"
+  },
+  {
+    "name": ".NET DeveloperDays",
+    "url": "http://net.developerdays.pl/",
+    "datefrom": "2019-10-21",
+    "dateto": "2019-10-23",
+    "flag": "pl",
+    "location": "Warsaw, Poland"
   }
 ]
