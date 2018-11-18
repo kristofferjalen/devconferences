@@ -158,5 +158,13 @@
     "dateto": "2019-03-31",
     "flag": "ru",
     "location": "Novosibirsk, Russia"
+  },
+  {
+    "name": "Techorama 2019",
+    "url": "https://techorama.be/",
+    "datefrom": "2019-05-20",
+    "dateto": "2019-05-22",
+    "flag": "be",
+    "location": "Antwerp, Belgium"
   }
 ]
