@@ -75,6 +75,8 @@
 				    console.log('Something went wrong: ' + err);
 				  } else {
 
+				  	data.sort((a, b) => new Date(a.datefrom).getTime() - new Date(b.datefrom).getTime());
+
 				    var table = document.getElementById("conferences").getElementsByTagName('tbody')[0],
 				    	rows = 0;
 
