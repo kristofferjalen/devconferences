@@ -206,5 +206,13 @@
     "dateto": "2019-08-08",
     "flag": "us",
     "location": "Wisconsin, USA"
+  },
+  {
+    "name": "DotNext",
+    "url": "https://dotnext-piter.ru/en/",
+    "datefrom": "2019-05-15",
+    "dateto": "2019-05-16",
+    "flag": "ru",
+    "location": "Saint Petersburg, Russia"
   }
 ]
