@@ -170,8 +170,8 @@
   {
     "name": ".NET DeveloperDays",
     "url": "http://net.developerdays.pl/",
-    "datefrom": "2019-10-21",
-    "dateto": "2019-10-23",
+    "datefrom": "2019-10-23",
+    "dateto": "2019-10-25",
     "flag": "pl",
     "location": "Warsaw, Poland"
   },
@@ -214,5 +214,29 @@
     "dateto": "2019-05-16",
     "flag": "ru",
     "location": "Saint Petersburg, Russia"
+  },
+  {
+    "name": "Update Conference Prague 2019",
+    "url": "https://www.updateconference.net/",
+    "datefrom": "2019-11-14",
+    "dateto": "2019-11-15",
+    "flag": "cz",
+    "location": "Prague, Czech Republic"
+  },
+  {
+    "name": "SDD 2019",
+    "url": "https://sddconf.com/",
+    "datefrom": "2019-05-20",
+    "dateto": "2019-05-24",
+    "flag": "uk",
+    "location": "London, United Kingdom"
+  },
+  {
+    "name": "BASTA! 2019",
+    "url": "https://basta.net/net-framework-c/",
+    "datefrom": "2019-02-25",
+    "dateto": "2019-03-01",
+    "flag": "de",
+    "location": "Frankfurt, Germany"
   }
 ]
