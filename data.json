@@ -182,5 +182,29 @@
     "dateto": "2019-02-08",
     "flag": "se",
     "location": "Stockholm, Sweden"
+  },
+  {
+    "name": "WROC#",
+    "url": "",
+    "datefrom": "2019-03-29",
+    "dateto": "2019-03-29",
+    "flag": "pl",
+    "location": "Wrocław, Poland"
+  },
+  {
+    "name": "Web Summit",
+    "url": "https://websummit.com/",
+    "datefrom": "2019-11-04",
+    "dateto": "2019-11-07",
+    "flag": "pt",
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "name": "THAT Conference",
+    "url": "https://www.thatconference.com/",
+    "datefrom": "2019-08-06",
+    "dateto": "2019-08-08",
+    "flag": "us",
+    "location": "Wisconsin, USA"
   }
 ]
