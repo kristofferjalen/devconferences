@@ -246,5 +246,13 @@
     "dateto": "2019-05-10",
     "flag": "hu",
     "location": "Budapest, Hungary"
+  },
+  {
+    "name": ".NET Days",
+    "url": "https://dotnetdays.ro/",
+    "datefrom": "2019-02-23",
+    "dateto": "2019-02-23",
+    "flag": "ro",
+    "location": "Iași, Romania"
   }
 ]
