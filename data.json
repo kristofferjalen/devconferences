@@ -262,5 +262,13 @@
     "dateto": "2019-05-31",
     "flag": "lv",
     "location": "Riga, Latvia"
+  },
+  {
+    "name": "Dev Conf ZA",
+    "url": "https://www.devconf.co.za/",
+    "datefrom": "2019-03-26",
+    "dateto": "2019-03-26",
+    "flag": "za",
+    "location": "Cape Town, South Africa"
   }
 ]
