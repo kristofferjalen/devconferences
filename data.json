@@ -238,5 +238,13 @@
     "dateto": "2019-03-01",
     "flag": "de",
     "location": "Frankfurt, Germany"
+  },
+  {
+    "name": "CRAFT",
+    "url": "https://craft-conf.com/",
+    "datefrom": "2019-05-07",
+    "dateto": "2019-05-10",
+    "flag": "hu",
+    "location": "Budapest, Hungary"
   }
 ]
