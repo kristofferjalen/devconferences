@@ -270,5 +270,13 @@
     "dateto": "2019-03-26",
     "flag": "za",
     "location": "Cape Town, South Africa"
+  },
+  {
+    "name": "Sela Developer Practice",
+    "url": "http://www.seladeveloperpractice.com/",
+    "datefrom": "2018-12-27",
+    "dateto": "2018-12-31",
+    "flag": "il",
+    "location": "Ramat Gan, Israel"
   }
 ]
