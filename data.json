@@ -278,5 +278,37 @@
     "dateto": "2018-12-31",
     "flag": "il",
     "location": "Ramat Gan, Israel"
+  },
+  {
+    "name": "G2B TechEd",
+    "url": "https://www.g2bteched.cz/en",
+    "datefrom": "2019-02-04",
+    "dateto": "2019-02-05",
+    "flag": "cz",
+    "location": "Brno, Czech Republic"
+  },
+  {
+    "name": "ShowIT 2019",
+    "url": "https://www.showit.sk/en/",
+    "datefrom": "2019-02-05",
+    "dateto": "2019-02-07",
+    "flag": "sk",
+    "location": "Bratislava, Slovakia"
+  },
+  {
+    "name": "Tech Conference Vienna",
+    "url": "https://www.techconference.at/",
+    "datefrom": "2019-03-12",
+    "dateto": "2019-03-13",
+    "flag": "at",
+    "location": "Vienna, Austria"
+  },
+  {
+    "name": "ProgNET London 2019",
+    "url": "https://skillsmatter.com/conferences/11690-prognet-london-2019",
+    "datefrom": "2019-09-11",
+    "dateto": "2019-09-13",
+    "flag": "gb",
+    "location": "London, United Kingdom"
   }
 ]
