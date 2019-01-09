@@ -66,7 +66,7 @@
 					monthFrom = from.toLocaleString(locale, { month: "short" }),
 					monthTo = to.toLocaleString(locale, { month: "short" });
 
-				return from.getDate() + (monthFrom != monthTo ? " " + monthFrom : "" ) + (from.getFullYear() != to.getFullYear() ? " " + from.getFullYear() : "") + "-" + to.getDate() + " " + (monthTo) + " " + from.getFullYear();
+				return from.getDate() + (monthFrom != monthTo ? " " + monthFrom : "" ) + (from.getFullYear() != to.getFullYear() ? " " + from.getFullYear() : "") + (from != to ? "-" + to.getDate() + " " + (monthTo) : "") + " " + from.getFullYear();
 			}
 
 			getJSON('data.json',
