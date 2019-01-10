@@ -310,5 +310,29 @@
     "dateto": "2019-09-13",
     "flag": "gb",
     "location": "London, United Kingdom"
+  },
+  {
+    "name": ".NET Day Switzerland 2019",
+    "url": "https://dotnetday.ch/",
+    "datefrom": "2019-05-28",
+    "dateto": "2019-05-28",
+    "flag": "ch",
+    "location": "Zürich, Switzerland"
+  },
+  {
+    "name": "DotNetSouth.Tech Conference",
+    "url": "http://dotnetsouth.tech/",
+    "datefrom": "2019-05-08",
+    "dateto": "2019-05-10",
+    "flag": "us",
+    "location": "Atlanta, USA"
+  },
+  {
+    "name": "C# Corner Annual Conference 2019",
+    "url": "http://conference.c-sharpcorner.com/",
+    "datefrom": "2019-04-19",
+    "dateto": "2019-04-21",
+    "flag": "in",
+    "location": "Delhi, India"
   }
 ]
