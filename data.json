@@ -334,5 +334,13 @@
     "dateto": "2019-04-21",
     "flag": "in",
     "location": "Delhi, India"
+  },
+  {
+    "name": "Beauty in Code",
+    "url": "http://www.beautyincode.se/",
+    "datefrom": "2019-03-02",
+    "dateto": "2019-03-02",
+    "flag": "se",
+    "location": "Malmö, Sweden"
   }
 ]
