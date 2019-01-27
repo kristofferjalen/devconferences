@@ -342,5 +342,13 @@
     "dateto": "2019-03-02",
     "flag": "se",
     "location": "Malmö, Sweden"
+  },
+  {
+    "name": "DevTernity 2019",
+    "url": "https://devternity.com/",
+    "datefrom": "2019-12-06",
+    "dateto": "2019-12-07",
+    "flag": "lv",
+    "location": "Riga, Latvia"
   }
 ]
