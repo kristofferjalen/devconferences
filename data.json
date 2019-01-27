@@ -350,5 +350,13 @@
     "dateto": "2019-12-07",
     "flag": "lv",
     "location": "Riga, Latvia"
+  },
+  {
+    "name": "Thrive Conference 2019",
+    "url": "https://www.thriveconf.com/en/Pages/Home.aspx",
+    "datefrom": "2019-11-12",
+    "dateto": "2019-11-13",
+    "flag": "sl",
+    "location": "Slovenia"
   }
 ]
