@@ -1,3 +1,7 @@
 .flag-icon {
 	margin-right: 10px;
 }
+
+nav .brand-logo {
+	white-space: nowrap;
+}
