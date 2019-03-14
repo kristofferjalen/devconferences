@@ -358,5 +358,37 @@
     "dateto": "2019-11-13",
     "flag": "si",
     "location": "Slovenia"
+  },
+  {
+    "name": "DevSum 2019",
+    "url": "https://www.devsum.se",
+    "datefrom": "2019-05-23",
+    "dateto": "2019-05-24",
+    "flag": "se",
+    "location": "Stockholm, Sweden"
+  },
+  {
+    "name": "Microsoft Build 2019",
+    "url": "https://www.microsoft.com/en-us/build",
+    "datefrom": "2019-05-06",
+    "dateto": "2019-05-08",
+    "flag": "us",
+    "location": "Seattle, USA"
+  },
+  {
+    "name": "Techorama Netherlands 2019",
+    "url": "https://www.techorama.nl/",
+    "datefrom": "2019-09-30",
+    "dateto": "2019-10-02",
+    "flag": "nl",
+    "location": "Seattle, USA"
+  },
+  {
+    "name": "European Sharepoint, Office365 and Azure Conference 2019",
+    "url": "https://www.sharepointeurope.com/",
+    "datefrom": "2019-12-02",
+    "dateto": "2019-12-05",
+    "flag": "cz",
+    "location": "Prague, Czech Republic"
   }
 ]
