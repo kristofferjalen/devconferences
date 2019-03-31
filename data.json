@@ -478,5 +478,53 @@
     "dateto": "2019-09-22",
     "flag": "cz",
     "location": "Prague, Czechia"
+  },
+  {
+    "name": "NDC London",
+    "url": "https://ndc-london.com/",
+    "datefrom": "2020-01-27",
+    "dateto": "2020-01-31",
+    "flag": "gb",
+    "location": "London, United Kingdom"
+  },
+  {
+    "name": "NDC Sydney",
+    "url": "https://ndcsydney.com/",
+    "datefrom": "2019-10-14",
+    "dateto": "2019-10-18",
+    "flag": "au",
+    "location": "Sydney, Australia"
+  },
+  {
+    "name": "NDC Minnesota",
+    "url": "https://ndcminnesota.com/",
+    "datefrom": "2019-05-06",
+    "dateto": "2019-05-09",
+    "flag": "us",
+    "location": "Minnesota, USA"
+  },
+  {
+    "name": "DotNext 2019 Moscow",
+    "url": "https://dotnext-moscow.ru/en/",
+    "datefrom": "2019-11-06",
+    "dateto": "2019-11-07",
+    "flag": "ru",
+    "location": "Moscow, Russia"
+  },
+  {
+    "name": "Øredev Developer Conference",
+    "url": "http://oredev.org/start",
+    "datefrom": "2019-11-06",
+    "dateto": "2019-11-08",
+    "flag": "se",
+    "location": "Malmö, Sweden"
+  },
+  {
+    "name": ".NET Fest 2019",
+    "url": "http://dotnetfest.com/indexe.html",
+    "datefrom": "2019-10-25",
+    "dateto": "2019-10-26",
+    "flag": "ua",
+    "location": "Kiev, Ukraine"
   }
 ]
