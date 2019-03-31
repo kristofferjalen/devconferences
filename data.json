@@ -390,5 +390,93 @@
     "dateto": "2019-12-05",
     "flag": "cz",
     "location": "Prague, Czech Republic"
+  },
+  {
+    "name": ".NET Summit 2019",
+    "url": "https://dotnetsummit.by/",
+    "datefrom": "2019-06-08",
+    "dateto": "2019-06-08",
+    "flag": "by",
+    "location": "Minsk, Belarus"
+  },
+  {
+    "name": "Devtalks Bucharest",
+    "url": "https://www.devtalks.ro/bucharest/",
+    "datefrom": "2019-06-06",
+    "dateto": "2019-06-07",
+    "flag": "ro",
+    "location": "Bucharest, Romania"
+  },
+  {
+    "name": "Devtalks Cluj",
+    "url": "https://www.devtalks.ro/cluj/",
+    "datefrom": "2019-05-16",
+    "dateto": "2019-05-16",
+    "flag": "ro",
+    "location": "Cluj, Romania"
+  },
+  {
+    "name": "Voxxed Days Frontend",
+    "url": "https://romania.voxxeddays.com/frontend/",
+    "datefrom": "2019-05-21",
+    "dateto": "2019-05-22",
+    "flag": "ro",
+    "location": "Bucharest, Romania"
+  },
+  {
+    "name": "Voxxed Days Cluj",
+    "url": "https://romania.voxxeddays.com/cluj-napoca/2019-10-30/",
+    "datefrom": "2019-10-30",
+    "dateto": "2019-10-31",
+    "flag": "ro",
+    "location": "Cluj, Romania"
+  },
+  {
+    "name": "Global Azure Bootcamp, Sofia",
+    "url": "http://azure-camp.eu/sofia-bootcamp/",
+    "datefrom": "2019-04-27",
+    "dateto": "2019-04-27",
+    "flag": "bg",
+    "location": "Sofia, Bulgaria"
+  },
+  {
+    "name": "DotNet 2019",
+    "url": "https://www.dotnet2019.com/",
+    "datefrom": "2019-06-19",
+    "dateto": "2019-06-19",
+    "flag": "es",
+    "location": "Madrid, Spain"
+  },
+  {
+    "name": "Developers Conference 2019",
+    "url": "https://conference.mscc.mu/",
+    "datefrom": "2019-04-11",
+    "dateto": "2019-04-13",
+    "flag": "mu",
+    "location": "Bagatelle, Mauritius"
+  },
+  {
+    "name": "Beer City Code",
+    "url": "https://beercitycode.com/",
+    "datefrom": "2019-05-31",
+    "dateto": "2019-06-01",
+    "flag": "us",
+    "location": "Grand Rapids, USA"
+  },
+  {
+    "name": "Dotnes Conference",
+    "url": "https://conf.dotnetos.org/",
+    "datefrom": "2019-10-10",
+    "dateto": "2019-10-11",
+    "flag": "pl",
+    "location": "Warsaw, Poland"
+  },
+  {
+    "name": "WebExpo Conference",
+    "url": "https://www.webexpo.net/",
+    "datefrom": "2019-09-20",
+    "dateto": "2019-09-22",
+    "flag": "cz",
+    "location": "Prague, Czechia"
   }
 ]
