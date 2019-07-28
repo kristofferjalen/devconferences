@@ -477,7 +477,7 @@
     "datefrom": "2019-09-20",
     "dateto": "2019-09-22",
     "flag": "cz",
-    "location": "Prague, Czechia"
+    "location": "Prague, Czech Republic"
   },
   {
     "name": "NDC London",
@@ -536,14 +536,6 @@
     "location": "Dublin, Ireland"
   },
   {
-    "name": "WebExpo",
-    "url": "https://www.webexpo.net/prague2019",
-    "datefrom": "2019-09-20",
-    "dateto": "2019-09-22",
-    "flag": "cz",
-    "location": "Prague, Czech"
-  },
-  {
     "name": "Leetspeak",
     "url": "https://leetspeak.se/2019/",
     "datefrom": "2019-10-19",
@@ -574,14 +566,6 @@
     "dateto": "2019-12-14",
     "flag": "be",
     "location": "Mechelen, Belgium"
-  },
-  {
-    "name": "Techorama",
-    "url": "https://techorama.nl/",
-    "datefrom": "2019-09-30",
-    "dateto": "2019-10-02",
-    "flag": "nl",
-    "location": "Ede, Netherlands"
   },
   {
     "name": "Prairie Dev Con",
