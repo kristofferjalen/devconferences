@@ -464,7 +464,7 @@
     "location": "Grand Rapids, USA"
   },
   {
-    "name": "Dotnes Conference",
+    "name": "Dotnesos Conference",
     "url": "https://conf.dotnetos.org/",
     "datefrom": "2019-10-10",
     "dateto": "2019-10-11",
@@ -614,5 +614,13 @@
     "dateto": "2019-09-26",
     "flag": "de",
     "location": "Mainz, Germany"
+  },
+  {
+    "name": "Domain-Driven Design Europe 2020",
+    "url": "https://dddeurope.com/2020/",
+    "datefrom": "2020-02-03",
+    "dateto": "2020-02-07",
+    "flag": "nl",
+    "location": "Amsterdam, Netherlands"
   }
 ]
