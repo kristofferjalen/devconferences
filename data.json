@@ -526,5 +526,101 @@
     "dateto": "2019-10-26",
     "flag": "ua",
     "location": "Kiev, Ukraine"
+  },
+  {
+    "name": "Dublin Tech Summit",
+    "url": "https://dublintechsummit.com/",
+    "datefrom": "2020-04-22",
+    "dateto": "2020-04-23",
+    "flag": "ir",
+    "location": "Dublin, Ireland"
+  },
+  {
+    "name": "WebExpo",
+    "url": "https://www.webexpo.net/prague2019",
+    "datefrom": "2019-09-20",
+    "dateto": "2019-09-22",
+    "flag": "cz",
+    "location": "Prague, Czech"
+  },
+  {
+    "name": "Leetspeak",
+    "url": "https://leetspeak.se/2019/",
+    "datefrom": "2019-10-19",
+    "dateto": "2019-10-19",
+    "flag": "se",
+    "location": "Stockholm, Sweden"
+  },
+  {
+    "name": "DEVintersection",
+    "url": "https://devintersection.com/#!/",
+    "datefrom": "2019-11-18",
+    "dateto": "2019-11-21",
+    "flag": "us",
+    "location": "Las Vegas, USA"
+  },
+  {
+    "name": "XP Days Ukraine",
+    "url": "https://xpdays.com.ua/",
+    "datefrom": "2019-11-22",
+    "dateto": "2019-11-23",
+    "flag": "ua",
+    "location": "Kiev, Ukraine"
+  },
+  {
+    "name": "CloudBrew",
+    "url": "https://www.cloudbrew.be/",
+    "datefrom": "2019-12-13",
+    "dateto": "2019-12-14",
+    "flag": "be",
+    "location": "Mechelen, Belgium"
+  },
+  {
+    "name": "Techorama",
+    "url": "https://techorama.nl/",
+    "datefrom": "2019-09-30",
+    "dateto": "2019-10-02",
+    "flag": "nl",
+    "location": "Ede, Netherlands"
+  },
+  {
+    "name": "Prairie Dev Con",
+    "url": "http://www.prairiedevcon.com/",
+    "datefrom": "2019-10-22",
+    "dateto": "2019-10-23",
+    "flag": "us",
+    "location": "Regina, USA"
+  },
+  {
+    "name": "Microsoft Inspire",
+    "url": "https://partner.microsoft.com/en-ee/inspire/",
+    "datefrom": "2020-07-19",
+    "dateto": "2020-07-23",
+    "flag": "us",
+    "location": "Las Vegas, USA"
+  },
+  {
+    "name": "Microsoft Ignite",
+    "url": "https://www.microsoft.com/en-us/ignite",
+    "datefrom": "2019-11-04",
+    "dateto": "2019-11-08",
+    "flag": "us",
+    "location": "Orlando, USA"
+  },
+  {
+    "name": "Techorama",
+    "url": "https://techorama.be/",
+    "datefrom": "2020-05-25",
+    "dateto": "2020-05-27",
+    "flag": "be",
+    "location": "Antwerp, Belgium"
+  },
+  {
+    "name": "NDC Porto",
+    "url": "https://ndcporto.com/",
+    "datefrom": "2020-04-21",
+    "dateto": "2020-04-24",
+    "flag": "pt",
+    "location": "Porto, Portugal"
   }
 ]
