@@ -606,5 +606,13 @@
     "dateto": "2020-04-24",
     "flag": "pt",
     "location": "Porto, Portugal"
+  },
+  {
+    "name": "BASTA!",
+    "url": "https://basta.net/en/",
+    "datefrom": "2019-09-24",
+    "dateto": "2019-09-26",
+    "flag": "de",
+    "location": "Mainz, Germany"
   }
 ]
