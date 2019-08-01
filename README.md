@@ -11,3 +11,5 @@ Website: https://kristofferjalen.github.io/dotnetconferences/
 4. Commit your changes.
 5. Push to feature branch.
 6. Create pull request.
+
+Too much hassle? [E-mail](mailto:kristoffer.jalen@gmail.com) me instead. 

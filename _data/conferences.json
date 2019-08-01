@@ -5,7 +5,8 @@
     "datefrom": "2018-09-18",
     "dateto": "2018-09-19",
     "flag": "pl",
-    "location": "Warsaw, Poland"
+    "location": "Warsaw, Poland",
+    "favicon": ""
   },
   {
     "name": "BASTA",
@@ -13,7 +14,8 @@
     "datefrom": "2018-09-24",
     "dateto": "2018-09-28",
     "flag": "de",
-    "location": "Mainz, Germany"
+    "location": "Mainz, Germany",
+    "favicon": ""
   },
   {
     "name": "CloudBrew",
@@ -21,7 +23,8 @@
     "datefrom": "2018-10-12",
     "dateto": "2018-10-13",
     "flag": "be",
-    "location": "Mechelen, Belgium"
+    "location": "Mechelen, Belgium",
+    "favicon": ""
   },
   {
     "name": "Leetspeak 2018",
@@ -29,7 +32,8 @@
     "datefrom": "2018-10-13",
     "dateto": "2018-10-13",
     "flag": "se",
-    "location": "Malmö, Sweden"
+    "location": "Malmö, Sweden",
+    "favicon": ""
   },
   {
     "name": ".NET Fest",
@@ -37,7 +41,8 @@
     "datefrom": "2018-10-26",
     "dateto": "2018-10-27",
     "flag": "ua",
-    "location": "Kiev, Ukraine"
+    "location": "Kiev, Ukraine",
+    "favicon": ""
   },
   {
     "name": "DevReach",
@@ -45,7 +50,8 @@
     "datefrom": "2018-11-13",
     "dateto": "2018-11-14",
     "flag": "bg",
-    "location": "Sofia, Bulgaria"
+    "location": "Sofia, Bulgaria",
+    "favicon": ""
   },
   {
     "name": "SDD",
@@ -53,7 +59,8 @@
     "datefrom": "2018-11-13",
     "dateto": "2018-11-15",
     "flag": "gb",
-    "location": "London, United Kingdom"
+    "location": "London, United Kingdom",
+    "favicon": ""
   },
   {
     "name": "Codecamp",
@@ -61,7 +68,8 @@
     "datefrom": "2018-11-17",
     "dateto": "2018-11-17",
     "flag": "md",
-    "location": "Chișinău, Moldova"
+    "location": "Chișinău, Moldova",
+    "favicon": ""
   },
   {
     "name": "Update Conference",
@@ -69,7 +77,8 @@
     "datefrom": "2018-11-22",
     "dateto": "2018-11-23",
     "flag": "cz",
-    "location": "Prague, Czech Republic"
+    "location": "Prague, Czech Republic",
+    "favicon": ""
   },
   {
     "name": "ÖreDev",
@@ -77,7 +86,8 @@
     "datefrom": "2018-11-19",
     "dateto": "2018-11-22",
     "flag": "se",
-    "location": "Malmö, Sweden"
+    "location": "Malmö, Sweden",
+    "favicon": ""
   },
   {
     "name": "DotNext 2018 Moscow",
@@ -85,7 +95,8 @@
     "datefrom": "2018-11-22",
     "dateto": "2018-11-23",
     "flag": "ru",
-    "location": "Moscow, Russia"
+    "location": "Moscow, Russia",
+    "favicon": ""
   },
   {
     "name": "DevTernity",
@@ -93,7 +104,8 @@
     "datefrom": "2018-11-30",
     "dateto": "2018-12-01",
     "flag": "lv",
-    "location": "Riga, Latvia"
+    "location": "Riga, Latvia",
+    "favicon": ""
   },
   {
     "name": "DEVintersection",
@@ -101,7 +113,8 @@
     "datefrom": "2018-12-03",
     "dateto": "2018-12-06",
     "flag": "us",
-    "location": "Las Vegas, US"
+    "location": "Las Vegas, US",
+    "favicon": ""
   },
   {
     "name": "XP Days Ukraine",
@@ -109,7 +122,8 @@
     "datefrom": "2018-12-07",
     "dateto": "2018-12-08",
     "flag": "ua",
-    "location": "Kiev, Ukraine"
+    "location": "Kiev, Ukraine",
+    "favicon": ""
   },
   {
     "name": "NDC London",
@@ -117,7 +131,8 @@
     "datefrom": "2019-01-28",
     "dateto": "2019-02-01",
     "flag": "gb",
-    "location": "London, United Kingdom"
+    "location": "London, United Kingdom",
+    "favicon": ""
   },
   {
     "name": "NDC Oslo",
@@ -125,7 +140,8 @@
     "datefrom": "2019-06-17",
     "dateto": "2019-06-21",
     "flag": "no",
-    "location": "Oslo, Norway"
+    "location": "Oslo, Norway",
+    "favicon": ""
   },
   {
     "name": "Future Tech 2019",
@@ -133,7 +149,8 @@
     "datefrom": "2019-03-13",
     "dateto": "2019-03-13",
     "flag": "nl",
-    "location": "Jaarbeurs Utrecht, the Netherlands"
+    "location": "Jaarbeurs Utrecht, the Netherlands",
+    "favicon": ""
   },
   {
     "name": "DevConf 2018",
@@ -141,7 +158,8 @@
     "datefrom": "2018-09-26",
     "dateto": "2018-09-28",
     "flag": "pl",
-    "location": "Kraków, Poland"
+    "location": "Kraków, Poland",
+    "favicon": ""
   },
   {
     "name": "CodeMash",
@@ -149,7 +167,8 @@
     "datefrom": "2019-01-08",
     "dateto": "2019-01-11",
     "flag": "us",
-    "location": "Sandusky, Ohio, USA"
+    "location": "Sandusky, Ohio, USA",
+    "favicon": ""
   },
   {
     "name": "CodeFest 2019",
@@ -157,7 +176,8 @@
     "datefrom": "2019-03-30",
     "dateto": "2019-03-31",
     "flag": "ru",
-    "location": "Novosibirsk, Russia"
+    "location": "Novosibirsk, Russia",
+    "favicon": ""
   },
   {
     "name": "Techorama 2019",
@@ -165,7 +185,8 @@
     "datefrom": "2019-05-20",
     "dateto": "2019-05-22",
     "flag": "be",
-    "location": "Antwerp, Belgium"
+    "location": "Antwerp, Belgium",
+    "favicon": ""
   },
   {
     "name": ".NET DeveloperDays",
@@ -173,7 +194,8 @@
     "datefrom": "2019-10-23",
     "dateto": "2019-10-25",
     "flag": "pl",
-    "location": "Warsaw, Poland"
+    "location": "Warsaw, Poland",
+    "favicon": "https://net.developerdays.pl/wp-content/uploads/2019/02/favicon_net.png"
   },
   {
     "name": "Swetugg",
@@ -181,7 +203,8 @@
     "datefrom": "2019-02-07",
     "dateto": "2019-02-08",
     "flag": "se",
-    "location": "Stockholm, Sweden"
+    "location": "Stockholm, Sweden",
+    "favicon": ""
   },
   {
     "name": "WROC#",
@@ -189,7 +212,8 @@
     "datefrom": "2019-03-29",
     "dateto": "2019-03-29",
     "flag": "pl",
-    "location": "Wrocław, Poland"
+    "location": "Wrocław, Poland",
+    "favicon": ""
   },
   {
     "name": "Web Summit",
@@ -197,7 +221,8 @@
     "datefrom": "2019-11-04",
     "dateto": "2019-11-07",
     "flag": "pt",
-    "location": "Lisbon, Portugal"
+    "location": "Lisbon, Portugal",
+    "favicon": "https://websummit.com/wp-content/uploads/2018/07/favicon.png"
   },
   {
     "name": "THAT Conference",
@@ -205,7 +230,8 @@
     "datefrom": "2019-08-06",
     "dateto": "2019-08-08",
     "flag": "us",
-    "location": "Wisconsin, USA"
+    "location": "Wisconsin, USA",
+    "favicon": "https://www.thatconference.com/images/icons/favicon-16.png"
   },
   {
     "name": "DotNext",
@@ -213,7 +239,8 @@
     "datefrom": "2019-05-15",
     "dateto": "2019-05-16",
     "flag": "ru",
-    "location": "Saint Petersburg, Russia"
+    "location": "Saint Petersburg, Russia",
+    "favicon": ""
   },
   {
     "name": "Update Conference Prague 2019",
@@ -221,7 +248,8 @@
     "datefrom": "2019-11-14",
     "dateto": "2019-11-15",
     "flag": "cz",
-    "location": "Prague, Czech Republic"
+    "location": "Prague, Czech Republic",
+    "favicon": "https://www.updateconference.net/Resources/Images/Favicons/favicon-16x16.png"
   },
   {
     "name": "SDD 2019",
@@ -229,7 +257,8 @@
     "datefrom": "2019-05-20",
     "dateto": "2019-05-24",
     "flag": "gb",
-    "location": "London, United Kingdom"
+    "location": "London, United Kingdom",
+    "favicon": ""
   },
   {
     "name": "BASTA! 2019",
@@ -237,7 +266,8 @@
     "datefrom": "2019-02-25",
     "dateto": "2019-03-01",
     "flag": "de",
-    "location": "Frankfurt, Germany"
+    "location": "Frankfurt, Germany",
+    "favicon": ""
   },
   {
     "name": "CRAFT",
@@ -245,7 +275,8 @@
     "datefrom": "2019-05-07",
     "dateto": "2019-05-10",
     "flag": "hu",
-    "location": "Budapest, Hungary"
+    "location": "Budapest, Hungary",
+    "favicon": ""
   },
   {
     "name": ".NET Days",
@@ -253,7 +284,8 @@
     "datefrom": "2019-02-23",
     "dateto": "2019-02-23",
     "flag": "ro",
-    "location": "Iași, Romania"
+    "location": "Iași, Romania",
+    "favicon": ""
   },
   {
     "name": "Riga Dev Days",
@@ -261,7 +293,8 @@
     "datefrom": "2019-05-29",
     "dateto": "2019-05-31",
     "flag": "lv",
-    "location": "Riga, Latvia"
+    "location": "Riga, Latvia",
+    "favicon": ""
   },
   {
     "name": "Dev Conf ZA",
@@ -269,7 +302,8 @@
     "datefrom": "2019-03-26",
     "dateto": "2019-03-26",
     "flag": "za",
-    "location": "Cape Town, South Africa"
+    "location": "Cape Town, South Africa",
+    "favicon": ""
   },
   {
     "name": "Sela Developer Practice",
@@ -277,7 +311,8 @@
     "datefrom": "2018-12-27",
     "dateto": "2018-12-31",
     "flag": "il",
-    "location": "Ramat Gan, Israel"
+    "location": "Ramat Gan, Israel",
+    "favicon": ""
   },
   {
     "name": "G2B TechEd",
@@ -285,7 +320,8 @@
     "datefrom": "2019-02-04",
     "dateto": "2019-02-05",
     "flag": "cz",
-    "location": "Brno, Czech Republic"
+    "location": "Brno, Czech Republic",
+    "favicon": ""
   },
   {
     "name": "ShowIT 2019",
@@ -293,7 +329,8 @@
     "datefrom": "2019-02-05",
     "dateto": "2019-02-07",
     "flag": "sk",
-    "location": "Bratislava, Slovakia"
+    "location": "Bratislava, Slovakia",
+    "favicon": ""
   },
   {
     "name": "Tech Conference Vienna",
@@ -301,7 +338,8 @@
     "datefrom": "2019-03-12",
     "dateto": "2019-03-13",
     "flag": "at",
-    "location": "Vienna, Austria"
+    "location": "Vienna, Austria",
+    "favicon": ""
   },
   {
     "name": "ProgNET London 2019",
@@ -309,7 +347,8 @@
     "datefrom": "2019-09-11",
     "dateto": "2019-09-13",
     "flag": "gb",
-    "location": "London, United Kingdom"
+    "location": "London, United Kingdom",
+    "favicon": "https://skillsmatter.com/favicon-16x16.png"
   },
   {
     "name": ".NET Day Switzerland 2019",
@@ -317,7 +356,8 @@
     "datefrom": "2019-05-28",
     "dateto": "2019-05-28",
     "flag": "ch",
-    "location": "Zürich, Switzerland"
+    "location": "Zürich, Switzerland",
+    "favicon": ""
   },
   {
     "name": "DotNetSouth.Tech Conference",
@@ -325,7 +365,8 @@
     "datefrom": "2019-05-08",
     "dateto": "2019-05-10",
     "flag": "us",
-    "location": "Atlanta, USA"
+    "location": "Atlanta, USA",
+    "favicon": ""
   },
   {
     "name": "C# Corner Annual Conference 2019",
@@ -333,7 +374,8 @@
     "datefrom": "2019-04-19",
     "dateto": "2019-04-21",
     "flag": "in",
-    "location": "Delhi, India"
+    "location": "Delhi, India",
+    "favicon": ""
   },
   {
     "name": "Beauty in Code",
@@ -341,7 +383,8 @@
     "datefrom": "2019-03-02",
     "dateto": "2019-03-02",
     "flag": "se",
-    "location": "Malmö, Sweden"
+    "location": "Malmö, Sweden",
+    "favicon": ""
   },
   {
     "name": "DevTernity 2019",
@@ -349,7 +392,8 @@
     "datefrom": "2019-12-06",
     "dateto": "2019-12-07",
     "flag": "lv",
-    "location": "Riga, Latvia"
+    "location": "Riga, Latvia",
+    "favicon": "https://devternity.com/images/favicon.png"
   },
   {
     "name": "Thrive Conference 2019",
@@ -357,7 +401,8 @@
     "datefrom": "2019-11-12",
     "dateto": "2019-11-13",
     "flag": "si",
-    "location": "Slovenia"
+    "location": "Slovenia",
+    "favicon": "https://www.thriveconf.com/_layouts/15/images/Xnet.SP.ThriveConf19/favicon.png?rev=20190110"
   },
   {
     "name": "DevSum 2019",
@@ -365,7 +410,8 @@
     "datefrom": "2019-05-23",
     "dateto": "2019-05-24",
     "flag": "se",
-    "location": "Stockholm, Sweden"
+    "location": "Stockholm, Sweden",
+    "favicon": ""
   },
   {
     "name": "Microsoft Build 2019",
@@ -373,7 +419,8 @@
     "datefrom": "2019-05-06",
     "dateto": "2019-05-08",
     "flag": "us",
-    "location": "Seattle, USA"
+    "location": "Seattle, USA",
+    "favicon": ""
   },
   {
     "name": "Techorama Netherlands 2019",
@@ -381,7 +428,8 @@
     "datefrom": "2019-09-30",
     "dateto": "2019-10-02",
     "flag": "nl",
-    "location": "Ede, Netherlands"
+    "location": "Ede, Netherlands",
+    "favicon": "https://www.techorama.nl/assets/images/meta/favicon-16x16.png"
   },
   {
     "name": "European Sharepoint, Office365 and Azure Conference 2019",
@@ -389,7 +437,8 @@
     "datefrom": "2019-12-02",
     "dateto": "2019-12-05",
     "flag": "cz",
-    "location": "Prague, Czech Republic"
+    "location": "Prague, Czech Republic",
+    "favicon": "https://cdn.sharepointeurope.com/wp-content/uploads/2018/01/cropped-ESPC-favicon-32x32.png"
   },
   {
     "name": ".NET Summit 2019",
@@ -397,7 +446,8 @@
     "datefrom": "2019-06-08",
     "dateto": "2019-06-08",
     "flag": "by",
-    "location": "Minsk, Belarus"
+    "location": "Minsk, Belarus",
+    "favicon": ""
   },
   {
     "name": "Devtalks Bucharest",
@@ -405,7 +455,8 @@
     "datefrom": "2019-06-06",
     "dateto": "2019-06-07",
     "flag": "ro",
-    "location": "Bucharest, Romania"
+    "location": "Bucharest, Romania",
+    "favicon": ""
   },
   {
     "name": "Devtalks Cluj",
@@ -413,7 +464,8 @@
     "datefrom": "2019-05-16",
     "dateto": "2019-05-16",
     "flag": "ro",
-    "location": "Cluj, Romania"
+    "location": "Cluj, Romania",
+    "favicon": ""
   },
   {
     "name": "Voxxed Days Frontend",
@@ -421,7 +473,8 @@
     "datefrom": "2019-05-21",
     "dateto": "2019-05-22",
     "flag": "ro",
-    "location": "Bucharest, Romania"
+    "location": "Bucharest, Romania",
+    "favicon": ""
   },
   {
     "name": "Voxxed Days Cluj",
@@ -429,7 +482,8 @@
     "datefrom": "2019-10-30",
     "dateto": "2019-10-31",
     "flag": "ro",
-    "location": "Cluj, Romania"
+    "location": "Cluj, Romania",
+    "favicon": "https://romania.voxxeddays.com/wp-content/uploads/2018/04/icon.jpg"
   },
   {
     "name": "Global Azure Bootcamp, Sofia",
@@ -437,7 +491,8 @@
     "datefrom": "2019-04-27",
     "dateto": "2019-04-27",
     "flag": "bg",
-    "location": "Sofia, Bulgaria"
+    "location": "Sofia, Bulgaria",
+    "favicon": ""
   },
   {
     "name": "DotNet 2019",
@@ -445,7 +500,8 @@
     "datefrom": "2019-06-19",
     "dateto": "2019-06-19",
     "flag": "es",
-    "location": "Madrid, Spain"
+    "location": "Madrid, Spain",
+    "favicon": ""
   },
   {
     "name": "Developers Conference 2019",
@@ -453,7 +509,8 @@
     "datefrom": "2019-04-11",
     "dateto": "2019-04-13",
     "flag": "mu",
-    "location": "Bagatelle, Mauritius"
+    "location": "Bagatelle, Mauritius",
+    "favicon": ""
   },
   {
     "name": "Beer City Code",
@@ -461,7 +518,8 @@
     "datefrom": "2019-05-31",
     "dateto": "2019-06-01",
     "flag": "us",
-    "location": "Grand Rapids, USA"
+    "location": "Grand Rapids, USA",
+    "favicon": ""
   },
   {
     "name": "Dotnesos Conference",
@@ -469,7 +527,8 @@
     "datefrom": "2019-10-10",
     "dateto": "2019-10-11",
     "flag": "pl",
-    "location": "Warsaw, Poland"
+    "location": "Warsaw, Poland",
+    "favicon": "https://conf.dotnetos.org/images/favicon.ico"
   },
   {
     "name": "WebExpo Conference",
@@ -477,7 +536,8 @@
     "datefrom": "2019-09-20",
     "dateto": "2019-09-22",
     "flag": "cz",
-    "location": "Prague, Czech Republic"
+    "location": "Prague, Czech Republic",
+    "favicon": "https://www.webexpo.net/favicon-16x16.png"
   },
   {
     "name": "NDC London",
@@ -485,7 +545,8 @@
     "datefrom": "2020-01-27",
     "dateto": "2020-01-31",
     "flag": "gb",
-    "location": "London, United Kingdom"
+    "location": "London, United Kingdom",
+    "favicon": "https://ndc-london.com/assets/img/favicon.ico?v=2"
   },
   {
     "name": "NDC Sydney",
@@ -493,7 +554,8 @@
     "datefrom": "2019-10-14",
     "dateto": "2019-10-18",
     "flag": "au",
-    "location": "Sydney, Australia"
+    "location": "Sydney, Australia",
+    "favicon": "https://ndcsydney.com/assets/img/favicon.ico?v=2"
   },
   {
     "name": "NDC Minnesota",
@@ -501,7 +563,8 @@
     "datefrom": "2019-05-06",
     "dateto": "2019-05-09",
     "flag": "us",
-    "location": "Minnesota, USA"
+    "location": "Minnesota, USA",
+    "favicon": ""
   },
   {
     "name": "DotNext 2019 Moscow",
@@ -509,7 +572,8 @@
     "datefrom": "2019-11-06",
     "dateto": "2019-11-07",
     "flag": "ru",
-    "location": "Moscow, Russia"
+    "location": "Moscow, Russia",
+    "favicon": "https://dotnext-moscow.ru/favicon-16x16.png"
   },
   {
     "name": "Øredev Developer Conference",
@@ -517,7 +581,8 @@
     "datefrom": "2019-11-06",
     "dateto": "2019-11-08",
     "flag": "se",
-    "location": "Malmö, Sweden"
+    "location": "Malmö, Sweden",
+    "favicon": "https://oredev.org/static/index.ico"
   },
   {
     "name": ".NET Fest 2019",
@@ -525,7 +590,8 @@
     "datefrom": "2019-10-25",
     "dateto": "2019-10-26",
     "flag": "ua",
-    "location": "Kiev, Ukraine"
+    "location": "Kiev, Ukraine",
+    "favicon": "http://dotnetfest.com/assets/ico/favicon.png"
   },
   {
     "name": "Dublin Tech Summit",
@@ -533,7 +599,8 @@
     "datefrom": "2020-04-22",
     "dateto": "2020-04-23",
     "flag": "ie",
-    "location": "Dublin, Ireland"
+    "location": "Dublin, Ireland",
+    "favicon": "https://dublintechsummit.businessandfinance.com/wp-content/uploads/sites/7/2016/02/Tech-summit-favicon.png"
   },
   {
     "name": "Leetspeak",
@@ -541,7 +608,8 @@
     "datefrom": "2019-10-19",
     "dateto": "2019-10-19",
     "flag": "se",
-    "location": "Stockholm, Sweden"
+    "location": "Stockholm, Sweden",
+    "favicon": "https://leetspeak.se/2019/favicon.ico"
   },
   {
     "name": "DEVintersection",
@@ -549,7 +617,8 @@
     "datefrom": "2019-11-18",
     "dateto": "2019-11-21",
     "flag": "us",
-    "location": "Las Vegas, USA"
+    "location": "Las Vegas, USA",
+    "favicon": "https://devintersection.com/content/images/favicon.png"
   },
   {
     "name": "XP Days Ukraine",
@@ -557,7 +626,8 @@
     "datefrom": "2019-11-22",
     "dateto": "2019-11-23",
     "flag": "ua",
-    "location": "Kiev, Ukraine"
+    "location": "Kiev, Ukraine",
+    "favicon": "https://xpdays.com.ua/wp-content/themes/xpdays/images/favicon.ico"
   },
   {
     "name": "CloudBrew",
@@ -565,7 +635,8 @@
     "datefrom": "2019-12-13",
     "dateto": "2019-12-14",
     "flag": "be",
-    "location": "Mechelen, Belgium"
+    "location": "Mechelen, Belgium",
+    "favicon": "https://www.cloudbrew.be/img/favicon/favicon-16x16.png"
   },
   {
     "name": "Prairie Dev Con",
@@ -573,7 +644,8 @@
     "datefrom": "2019-10-22",
     "dateto": "2019-10-23",
     "flag": "us",
-    "location": "Regina, USA"
+    "location": "Regina, USA",
+    "favicon": ""
   },
   {
     "name": "Microsoft Inspire",
@@ -581,7 +653,8 @@
     "datefrom": "2020-07-19",
     "dateto": "2020-07-23",
     "flag": "us",
-    "location": "Las Vegas, USA"
+    "location": "Las Vegas, USA",
+    "favicon": "https://partner.microsoft.com/favicon.ico"
   },
   {
     "name": "Microsoft Ignite",
@@ -589,7 +662,8 @@
     "datefrom": "2019-11-04",
     "dateto": "2019-11-08",
     "flag": "us",
-    "location": "Orlando, USA"
+    "location": "Orlando, USA",
+    "favicon": "https://www.microsoft.com/favicon.ico"
   },
   {
     "name": "Techorama",
@@ -597,7 +671,8 @@
     "datefrom": "2020-05-25",
     "dateto": "2020-05-27",
     "flag": "be",
-    "location": "Antwerp, Belgium"
+    "location": "Antwerp, Belgium",
+    "favicon": "https://techorama.be/assets/images/meta/favicon-16x16.png"
   },
   {
     "name": "NDC Porto",
@@ -605,7 +680,8 @@
     "datefrom": "2020-04-21",
     "dateto": "2020-04-24",
     "flag": "pt",
-    "location": "Porto, Portugal"
+    "location": "Porto, Portugal",
+    "favicon": "https://ndcporto.com/assets/img/favicon.ico?v=2"
   },
   {
     "name": "BASTA!",
@@ -613,7 +689,8 @@
     "datefrom": "2019-09-24",
     "dateto": "2019-09-26",
     "flag": "de",
-    "location": "Mainz, Germany"
+    "location": "Mainz, Germany",
+    "favicon": "https://basta.net/wp-content/uploads/2019/02/BASTA19_Website_Favicon_64x64_v1.ico"
   },
   {
     "name": "Domain-Driven Design Europe 2020",
@@ -621,6 +698,7 @@
     "datefrom": "2020-02-03",
     "dateto": "2020-02-07",
     "flag": "nl",
-    "location": "Amsterdam, Netherlands"
+    "location": "Amsterdam, Netherlands",
+    "favicon": "https://dddeurope.com/favicons/favicon-16x16.png"
   }
 ]
