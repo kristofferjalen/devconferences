@@ -7,7 +7,7 @@ layout: home
 
 A list of [.NET](https://dotnet.microsoft.com/) conferences worldwide. If I've missed one, please [add](https://github.com/kristofferjalen/dotnetconferences#add-new-conference) it.
 
-<table style="display:none" class="conferences">
+<table class="conferences">
     <thead>
         <tr>
             <th>What</th>

@@ -4,5 +4,4 @@ window.onload = () => {
     [...document.querySelectorAll('[data-from]')]
         .filter(c => new Date(c.getAttribute('data-from')) < now)
         .forEach(c => c.style.display = "none");
-    document.querySelector('table').style.display = 'block';
 }
