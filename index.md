@@ -5,7 +5,7 @@
 layout: home
 ---
 
-A list of [.NET](https://dotnet.microsoft.com/) conferences worldwide. If I've missed one, please [add](https://github.com/kristofferjalen/dotnetconferences#add-new-conference) it.
+A list of [.NET](https://dotnet.microsoft.com/) conferences worldwide. If I've missed one, please [add](add) it.
 
 <table class="conferences">
     <thead>
