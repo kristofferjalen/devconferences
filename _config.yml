@@ -17,8 +17,8 @@ title: .NET Conferences
 email: kristoffer.jalen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A list of upcoming .NET conferences.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kristofferjalen.github.io/dotnetconferences/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dotnetconferences" # the subpath of your site, e.g. /blog
+url: "https://kristofferjalen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kristofferjalen
 github_username:  kristofferjalen
 google_analytics: UA-341857-10
