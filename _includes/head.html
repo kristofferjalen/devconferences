@@ -8,12 +8,12 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  <link href="css/flag-icon.min.css" type="text/css" rel="stylesheet" media="screen,projection" />
-  <link href="assets/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
+  <link href="{{ "/css/flag-icon.min.css" | relative_url }}" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link href="{{ "/assets/style.css" | relative_url }}" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32x32.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | relative_url }}">
+  <link rel="manifest" href="{{ "/site.webmanifest" | relative_url }}">
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 </head>
