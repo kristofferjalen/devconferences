@@ -13,6 +13,8 @@
     }
 
     .icon {
+        min-width: 16px;
+        min-height: 16px;
         margin-right: 8px;
         display: inline-block;
 
@@ -28,11 +30,14 @@
     }
 }
 
-table {
+.conferences {
     @include media-query($on-laptop) {
-        display: block;
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-                -ms-overflow-style: -ms-autohiding-scrollbar;
+        table-layout: fixed;
+    }
+}
+.conferences td {
+    @include media-query($on-laptop) {
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 }
