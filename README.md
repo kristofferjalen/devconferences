@@ -8,7 +8,7 @@ Website: https://kristofferjalen.github.io/dotnetconferences/
 [E-mail](mailto:kristoffer.jalen@gmail.com) me, or change the data file: 
 
 1. Clone repo.
-2. Make changes to `data.json`.
+2. Make changes to `_data/conferences.json`.
 3. Create feature branch.
 4. Commit your changes.
 5. Push to feature branch.
