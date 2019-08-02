@@ -5,7 +5,7 @@
 layout: home
 ---
 
-A list of [.NET](https://dotnet.microsoft.com/) conferences worldwide. If I've missed one, please [add](add) it.
+A list of [.NET](https://dotnet.microsoft.com/) conferences in Europe, USA and elsewhere. If I've missed one, please [add](add) it.
 
 <table class="conferences">
     <thead>
@@ -25,11 +25,16 @@ A list of [.NET](https://dotnet.microsoft.com/) conferences worldwide. If I've m
         <tr data-from="{{ c.datefrom }}">
             <td>
                 <div>
-                    <div class="siteicon"><img src="{{ c.favicon }}" /></div>
-                    <div class="sitename"><a href="{{ c.url }}">{{ c.name }}</a></div>
+                    <div class="icon"><img src="{{ c.favicon }}" /></div>
+                    <div><a href="{{ c.url }}" target="_blank" rel="noopener noreferrer">{{ c.name }}</a></div>
                 </div>
             </td>
-            <td><span class="flag-icon flag-icon-{{ c.flag }}"></span> {{ c.location }}</td>
+            <td>
+                <div>
+                    <div class="icon"><span class="flag-icon flag-icon-{{ c.flag }}"></span></div>
+                    <div>{{ c.location }}</div>
+                </div>
+            </td>
             <td>{{ c.datefrom | date: "%-d" }}{% if fB != tB %} {{ fB }}{% endif %}{% if fY != tY %} {{ fY }}{% endif %}{% if c.datefrom != c.dateto %} - {{ c.dateto | date: "%-d" }}{% endif %} {{ tB }} {{ tY }}</td>
         </tr>
     {% endfor %}
