@@ -5,7 +5,7 @@
 layout: home
 ---
 
-A list of [.NET](https://dotnet.microsoft.com/) conferences in Europe, USA and elsewhere. If I've missed one, please [add](add) it.
+A list of [.NET](https://dotnet.microsoft.com/) conferences in Europe, US and elsewhere. If I've missed one, please [add](add) it.
 
 <table class="conferences">
     <thead>
