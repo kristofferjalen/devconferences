@@ -716,7 +716,8 @@
     "datefrom": "2019-09-21",
     "dateto": "2019-09-22",
     "flag": "np",
-    "location": "Kathmandu, Nepal"
+    "location": "Kathmandu, Nepal",
+    "favicon": ""
   },
   {
     "name": "Codemotion Madrid 2019",
@@ -724,6 +725,79 @@
     "datefrom": "2019-09-24",
     "dateto": "2019-09-25",
     "flag": "es",
-    "location": "Madrid, Spain"
+    "location": "Madrid, Spain",
+    "favicon": "https://events.codemotion.com/conferences/madrid/2019/wp-content/themes/event/img/generatedImages/faviconFF5C00.ico"
+  },
+  {
+    "name": "Visual Studio Live! San Diego",
+    "url": "https://vslive.com/events/san-diego-2019/home.aspx",
+    "datefrom": "2019-09-29",
+    "dateto": "2019-10-03",
+    "flag": "us",
+    "location": "San Diego, US",
+    "favicon": "https://vslive.com/design/ECG/vslive/fall/img/favicon.ico"
+  },
+  {
+    "name": "Visual Studio Live! Microsoft Campus",
+    "url": "https://vslive.com/events/redmond-2019/home.aspx",
+    "datefrom": "2019-08-12",
+    "dateto": "2019-08-16",
+    "flag": "us",
+    "location": "Redmond, US",
+    "favicon": "https://vslive.com/design/ECG/vslive/fall/img/favicon.ico"
+  },
+  {
+    "name": "Visual Studio Live! Atlanta",
+    "url": "https://vslive.com/events/training-seminars/2019/atlanta/home.aspx",
+    "datefrom": "2019-09-17",
+    "dateto": "2019-09-18",
+    "flag": "us",
+    "location": "Atlanta, US",
+    "favicon": "https://vslive.com/design/ECG/vslive/fall/img/favicon.ico"
+  },
+  {
+    "name": "Visual Studio Live! Chicago",
+    "url": "https://vslive.com/events/chicago-2019/home.aspx",
+    "datefrom": "2019-10-06",
+    "dateto": "2019-10-10",
+    "flag": "us",
+    "location": "Chicago, US",
+    "favicon": "https://vslive.com/design/ECG/vslive/fall/img/favicon.ico"
+  },
+  {
+    "name": "Visual Studio Live! Orlando",
+    "url": "https://vslive.com/ECG/live360events/Events/Orlando-2019/VSLive.aspx",
+    "datefrom": "2019-11-17",
+    "dateto": "2019-11-22",
+    "flag": "us",
+    "location": "Orlando, US",
+    "favicon": "https://vslive.com/design/ECG/live360/img/favicon.ico"
+  },
+  {
+    "name": "Visual Studio Live! Las Vegas",
+    "url": "https://vslive.com/Events/Las-Vegas-2020/Home.aspx",
+    "datefrom": "2020-03-01",
+    "dateto": "2020-03-06",
+    "flag": "us",
+    "location": "Las Vegas, US",
+    "favicon": "https://vslive.com/design/ECG/vslive/fall/img/favicon.ico"
+  },
+  {
+    "name": "Visual Studio Live! Austin",
+    "url": "https://vslive.com/Events/Austin-2020/Home.aspx",
+    "datefrom": "2020-03-30",
+    "dateto": "2020-04-03",
+    "flag": "us",
+    "location": "Austin, US",
+    "favicon": "https://vslive.com/design/ECG/vslive/fall/img/favicon.ico"
+  },
+  {
+    "name": "Visual Studio Live! Nashville",
+    "url": "https://vslive.com/Events/Nashville-2020/Home.aspx",
+    "datefrom": "2020-05-17",
+    "dateto": "2020-05-21",
+    "flag": "us",
+    "location": "Nashville, US",
+    "favicon": "https://vslive.com/design/ECG/vslive/fall/img/favicon.ico"
   }
 ]
