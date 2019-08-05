@@ -799,5 +799,32 @@
     "flag": "us",
     "location": "Nashville, US",
     "favicon": "https://vslive.com/design/ECG/vslive/fall/img/favicon.ico"
+  },
+  {
+    "name": "DevReach 2019",
+    "url": "https://www.telerik.com/devreach",
+    "datefrom": "2019-10-21",
+    "dateto": "2019-10-23",
+    "flag": "bg",
+    "location": "Sofia, Bulgaria",
+    "favicon": "https://www.telerik.com/favicon.ico?v=rebv1"
+  },
+  {
+    "name": "Build Stuff Lithuania",
+    "url": "https://www.buildstuff.lt/",
+    "datefrom": "2019-11-13",
+    "dateto": "2019-11-15",
+    "flag": "lt",
+    "location": "Vilnius, Lithuania",
+    "favicon": "https://static.wixstatic.com/media/6f4982_9c75cfe071a14725b3770809f6c66371~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/6f4982_9c75cfe071a14725b3770809f6c66371~mv2.png"
+  },
+  {
+    "name": "Build Stuff Ukraine",
+    "url": "https://www.ukraine.buildstuff.events/",
+    "datefrom": "2019-11-18",
+    "dateto": "2019-11-19",
+    "flag": "ua",
+    "location": "Kiev, Ukraine",
+    "favicon": "https://static.wixstatic.com/media/6f4982_9e114983c0074b46b00fd0bc22fb2f46~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/6f4982_9e114983c0074b46b00fd0bc22fb2f46~mv2.png"
   }
 ]
