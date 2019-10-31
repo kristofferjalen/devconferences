@@ -826,5 +826,14 @@
     "flag": "ua",
     "location": "Kiev, Ukraine",
     "favicon": "https://static.wixstatic.com/media/6f4982_9e114983c0074b46b00fd0bc22fb2f46~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/6f4982_9e114983c0074b46b00fd0bc22fb2f46~mv2.png"
+  },
+  {
+    "name": "BASTA!",
+    "url": "https://basta.net/net-framework-c/",
+    "datefrom": "2020-02-24",
+    "dateto": "2020-02-28",
+    "flag": "de",
+    "location": "Frankfurt, Germany",
+    "favicon": "https://basta.net/wp-content/uploads/2019/09/BASTA_SE20_Favicon_64x64_53163_v1.png"
   }
 ]
