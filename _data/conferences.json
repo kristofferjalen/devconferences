@@ -862,5 +862,50 @@
     "flag": "pl",
     "location": "Wrocław, Poland",
     "favicon": "https://www.wrocsharp.com/favicon.ico"
+  },
+  {
+    "name": "NDH TechTown",
+    "url": "https://ndctechtown.com/",
+    "datefrom": "2020-08-31",
+    "dateto": "2020-09-03",
+    "flag": "Kongsberg, Norway",
+    "location": "no",
+    "favicon": "https://ndctechtown.com/assets/img/favicon.ico?v=2"
+  },
+  {
+    "name": "NDC Oslo",
+    "url": "https://ndcoslo.com/",
+    "datefrom": "2020-06-08",
+    "dateto": "2020-06-12",
+    "flag": "no",
+    "location": "Oslo, Norway",
+    "favicon": "https://ndcoslo.com/assets/img/favicon.ico?v=2"
+  },
+  {
+    "name": "NDC Sydney",
+    "url": "https://ndcsydney.com/",
+    "datefrom": "2020-10-12",
+    "dateto": "2020-10-16",
+    "flag": "au",
+    "location": "Sydney, Australia",
+    "favicon": "https://ndcsydney.com/assets/img/favicon.ico?v=2"
+  },
+  {
+    "name": "NDC Minnesota",
+    "url": "https://ndcminnesota.com/",
+    "datefrom": "2020-09-08",
+    "dateto": "2020-09-11",
+    "flag": "us",
+    "location": "Minnesota, US",
+    "favicon": "https://ndcminnesota.com/assets/img/favicon.ico?v=2"
+  },
+  {
+    "name": "NDC Copenhagen",
+    "url": "https://ndccopenhagen.com/",
+    "datefrom": "2020-04-01",
+    "dateto": "2020-04-03",
+    "flag": "dk",
+    "location": "Copenhagen, Denmark",
+    "favicon": "https://ndccopenhagen.com/assets/img/favicon.ico?v=2"
   }
 ]
