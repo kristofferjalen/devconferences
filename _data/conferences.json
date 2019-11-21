@@ -835,5 +835,32 @@
     "flag": "de",
     "location": "Frankfurt, Germany",
     "favicon": "https://basta.net/wp-content/uploads/2019/09/BASTA_SE20_Favicon_64x64_53163_v1.png"
+  },
+  {
+    "name": "DotNext 2020",
+    "url": "https://dotnext-piter.ru/en/",
+    "datefrom": "2020-04-06",
+    "dateto": "2020-04-07",
+    "flag": "ru",
+    "location": "St Petersburg, Russia",
+    "favicon": "https://dotnext-piter.ru/favicon-16x16.png"
+  },
+  {
+    "name": ".NET DeveloperDays 2020",
+    "url": "https://2019.net.developerdays.pl/",
+    "datefrom": "2020-10-20",
+    "dateto": "2020-10-21",
+    "flag": "pl",
+    "location": "Warsaw, Poland",
+    "favicon": "https://2019.net.developerdays.pl/wp-content/uploads/2019/08/favicon_net.png"
+  },
+  {
+    "name": "WROC#",
+    "url": "https://www.wrocsharp.com/",
+    "datefrom": "2020-03-27",
+    "dateto": "2020-03-27",
+    "flag": "pl",
+    "location": "Wrocław, Poland",
+    "favicon": "https://www.wrocsharp.com/favicon.ico"
   }
 ]
