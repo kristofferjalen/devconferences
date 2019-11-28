@@ -837,6 +837,15 @@
     "favicon": "https://basta.net/wp-content/uploads/2019/09/BASTA_SE20_Favicon_64x64_53163_v1.png"
   },
   {
+    "name": "dotnetdays",
+    "url": "https://dotnetdays.ro/",
+    "datefrom": "2020-02-29",
+    "dateto": "2020-02-29",
+    "flag": "ro",
+    "location": "Iasi, Romania",
+    "favicon": "https://dotnetdays.ro/images/new/hero-logo.png"
+  },
+  {
     "name": "DotNext 2020",
     "url": "https://dotnext-piter.ru/en/",
     "datefrom": "2020-04-06",
