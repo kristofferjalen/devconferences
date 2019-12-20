@@ -916,5 +916,14 @@
     "flag": "dk",
     "location": "Copenhagen, Denmark",
     "favicon": "https://ndccopenhagen.com/assets/img/favicon.ico?v=2"
+  },
+  {
+    "name": "Workshop Summit",
+    "url": "https://workshop-summit.com/",
+    "datefrom": "2020-03-02",
+    "dateto": "2020-03-06",
+    "flag": "be",
+    "location": "Brussels, Belgium",
+    "favicon": "https://api.eventlama.com/events/250/logo.png"
   }
 ]
