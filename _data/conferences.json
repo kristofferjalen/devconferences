@@ -925,5 +925,14 @@
     "flag": "be",
     "location": "Brussels, Belgium",
     "favicon": "https://api.eventlama.com/events/250/logo.png"
+  },
+  {
+    "name": "Swetugg",
+    "url": "https://swetugg.se/",
+    "datefrom": "2020-02-03",
+    "dateto": "2020-02-04",
+    "flag": "se",
+    "location": "Stockholm, Sweden",
+    "favicon": "https://swetugg.se/favicon-16x16.png"
   }
 ]
