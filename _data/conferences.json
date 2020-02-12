@@ -935,4 +935,13 @@
     "location": "Stockholm, Sweden",
     "favicon": "https://swetugg.se/favicon-16x16.png"
   }
+   {
+    "name": ".Net Fest 2020",
+    "url": "https://dotnetfest.com/indexe.html",
+    "datefrom": "2020-10-23",
+    "dateto": "2020-10-24",
+    "flag": "ua",
+    "location": "Kyiv, Ukraine",
+    "favicon": "https://dotnetfest.com/assets/ico/favicon.png"
+  }
 ]
