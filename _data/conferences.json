@@ -943,5 +943,14 @@
     "flag": "ua",
     "location": "Kyiv, Ukraine",
     "favicon": "https://dotnetfest.com/assets/ico/favicon.png"
+  },
+   {
+    "name": "Update Conference Prague 2020",
+    "url": "https://www.updateconference.net/",
+    "datefrom": "2020-11-12",
+    "dateto": "2020-11-13",
+    "flag": "cz",
+    "location": "Prague, Czech Republic",
+    "favicon": "https://www.updateconference.net/Resources/Images/Favicons/favicon-32x32.png"
   }
 ]
