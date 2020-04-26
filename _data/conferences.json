@@ -973,4 +973,31 @@
     "location": "Warsaw, Poland",
     "favicon": "https://conf.dotnetos.org/images/favicon.ico"
   },
+{
+    "name": "Developer Week",
+    "url": "https://www.developer-week.de/",
+    "datefrom": "2020-06-29",
+    "dateto": "2020-07-03",
+    "flag": "de",
+    "location": "Nuremberg, Germany",
+    "favicon": " https://www.developer-week.de/app/uploads/2019/09/cropped-DWX_Icon_512x512-32x32.png"
+  },
+{
+    "name": ".NET Developer Conference ",
+    "url": "https://www.dotnet-developer-conference.de/",
+    "datefrom": "2020-11-23",
+    "dateto": "2020-11-27",
+    "flag": "de",
+    "location": "Cologne, Germany",
+    "favicon": " https://www.dotnet-developer-conference.de/app/uploads/2019/12/DDC_Icon.png"
+  },
+{
+    "name": "Developer Week Swiss",
+    "url": "https://www.developer-week.ch/",
+    "datefrom": "2020-12-07",
+    "dateto": "2020-12-09",
+    "flag": "ch",
+    "location": "Zurich, Switzerland",
+    "favicon": " https://www.developer-week.ch/app/uploads/2020/01/cropped-DWXSwiss_Icon-512x512-1-32x32.jpg"
+  },
 ]
