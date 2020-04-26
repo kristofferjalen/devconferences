@@ -956,11 +956,21 @@
    {
 
     "name": "Future Tech 2020",
-    "url": " https://futuretech.nl/",
+    "url": "https://futuretech.nl/",
     "datefrom": "2020-09-16",
     "dateto": "2020-09-16",
     "flag": "nl",
     "location": "Utrecht, The Netherlands",
     "favicon": "https://futuretech.nl/wp-content/uploads/2020/03/favicon-FutureTech.png"
+  },
+   {
+
+    "name": "Dotnetos 2020",
+    "url": "https://conf.dotnetos.org/",
+    "datefrom": "2020-10-01",
+    "dateto": "2020-10-02",
+    "flag": "pl",
+    "location": "Warsaw, Poland",
+    "favicon": "https://conf.dotnetos.org/images/favicon.ico"
   },
 ]
