@@ -952,5 +952,15 @@
     "flag": "cz",
     "location": "Prague, Czech Republic",
     "favicon": "https://www.updateconference.net/Resources/Images/Favicons/favicon-32x32.png"
-  }
+  },
+   {
+
+    "name": "Future Tech 2020",
+    "url": " https://futuretech.nl/",
+    "datefrom": "2020-09-16",
+    "dateto": "2020-09-16",
+    "flag": "nl",
+    "location": "Utrecht, The Netherlands",
+    "favicon": "https://futuretech.nl/wp-content/uploads/2020/03/favicon-FutureTech.png"
+  },
 ]
