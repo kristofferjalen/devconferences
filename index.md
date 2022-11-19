@@ -22,6 +22,8 @@ A list of software developer conferences in Europe, US and elsewhere. [Add](add)
     {% assign tB = c.dateto | date: "%b" %}
     {% assign fY = c.datefrom | date: "%Y" %}
     {% assign tY = c.dateto | date: "%Y" %}
+    {% assign fF = c.datefrom | date: "%F" %}
+    {% assign tF = c.dateto | date: "%F" %}
         <tr data-from="{{ c.datefrom }}">
             <td>
                 <div>
@@ -35,7 +37,7 @@ A list of software developer conferences in Europe, US and elsewhere. [Add](add)
                     <div>{{ c.location }}</div>
                 </div>
             </td>
-            <td>{{ c.datefrom | date: "%-d" }}{% if fB != tB %} {{ fB }}{% endif %}{% if fY != tY %} {{ fY }}{% endif %}{% if c.datefrom != c.dateto %} - {{ c.dateto | date: "%-d" }}{% endif %} {{ tB }} {{ tY }}</td>
+            <td>{{ c.datefrom | date: "%-d" }}{% if fB != tB %} {{ fB }}{% endif %}{% if fY != tY %} {{ fY }}{% endif %}{% if fF != tF %} - {{ c.dateto | date: "%-d" }}{% endif %} {{ tB }} {{ tY }}</td>
         </tr>
     {% endfor %}
     </tbody>
