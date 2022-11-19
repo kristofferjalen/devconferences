@@ -1,7 +1,7 @@
 # Software Developer Conferences
 A list of upcoming software developer conferences.
 
-Website: https://kristofferjalen.github.io/dotnetconferences/
+Website: https://kristofferjalen.github.io/devconferences/
 
 ## Add new conference
 
