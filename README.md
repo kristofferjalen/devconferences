@@ -1,5 +1,5 @@
-# .NET Conferences
-A list of upcoming .NET conferences.
+# Software Developer Conferences
+A list of upcoming software developer conferences.
 
 Website: https://kristofferjalen.github.io/dotnetconferences/
 

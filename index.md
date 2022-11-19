@@ -5,7 +5,7 @@
 layout: home
 ---
 
-A list of [.NET](https://dotnet.microsoft.com/) conferences in Europe, US and elsewhere. If I've missed one, please [add](add) it.
+A list of software developer conferences in Europe, US and elsewhere. [Add](add) missing ones.
 
 <table class="conferences">
     <thead>
@@ -16,12 +16,12 @@ A list of [.NET](https://dotnet.microsoft.com/) conferences in Europe, US and el
         </tr>
     </thead>
     <tbody>
-    {% assign conferences = site.data.conferences | sort: "datefrom"  %}
+    {% assign conferences = site.data.conferences | where_exp: 'post', 'post.datefrom >= site.time' | sort: "datefrom"  %}
     {% for c in conferences %}
     {% assign fB = c.datefrom | date: "%b" %}
     {% assign tB = c.dateto | date: "%b" %}
-    {% assign fY = c.datefrom | date: "%y" %}
-    {% assign tY = c.dateto | date: "%y" %}
+    {% assign fY = c.datefrom | date: "%Y" %}
+    {% assign tY = c.dateto | date: "%Y" %}
         <tr data-from="{{ c.datefrom }}">
             <td>
                 <div>
