@@ -1098,5 +1098,167 @@
     "flag": "us",
     "location": "Redmond, US",
     "favicon": "https://vslive.com/design/ECG/vslive/fall/img/favicon.ico"
+  },
+  {
+    "name": "Beauty In Code",
+    "url": "https://beautyincode.se/",
+    "datefrom": 2023-03-04T00:00:00,
+    "dateto": 2023-03-04T23:59:59,
+    "flag": "se",
+    "location": "Malmö, Sweden",
+    "favicon": "https://beautyincode.se/images/og-image.png"
+  },
+  {
+    "name": "Sela Developer Practice",
+    "url": "https://seladeveloperpractice.com/",
+    "datefrom": 2022-12-28T00:00:00,
+    "dateto": 2022-12-28T23:59:59,
+    "flag": "il",
+    "location": "Kfar Saba, Israel",
+    "favicon": ""
+  },
+  {
+    "name": "Domain Driven Design Europe",
+    "url": "https://2023.dddeurope.com/",
+    "datefrom": 2023-06-08T00:00:00,
+    "dateto": 2023-06-09T23:59:59,
+    "flag": "nl",
+    "location": "Amsterdam, Netherlands",
+    "favicon": "https://2023.dddeurope.com/favicon-32x32.png"
+  },
+  {
+    "name": "Dublin Tech Summit",
+    "url": "https://dublintechsummit.tech/",
+    "datefrom": 2023-05-31T00:00:00,
+    "dateto": 2023-06-01T23:59:59,
+    "flag": "ie",
+    "location": "Dublin, Ireland",
+    "favicon": "https://dublintechsummit.com/wp-content/uploads/sites/7/2020/02/DTS20-new-blue-Transparent-1-300x300.png"
+  },
+  {
+    "name": "Voxxed Days Romania",
+    "url": "https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2023/",
+    "datefrom": 2023-03-22T00:00:00,
+    "dateto": 2023-03-24T23:59:59,
+    "flag": "ro",
+    "location": "Bucharest, Romania",
+    "favicon": ""
+  },
+  {
+    "name": "Future Tech 2023",
+    "url": "https://futuretech.nl/",
+    "datefrom": 2023-03-23T00:00:00,
+    "dateto": 2023-03-23T23:59:59,
+    "flag": "nl",
+    "location": "Utrecht, Netherlands",
+    "favicon": "https://futuretech.nl/wp-content/uploads/2018/09/cropped-Logo-met-FT-192x192.png"
+  },
+  {
+    "name": "SDD 2023",
+    "url": "https://sddconf.com/",
+    "datefrom": 2023-05-15T00:00:00,
+    "dateto": 2023-05-19T23:59:59,
+    "flag": "gb",
+    "location": "London, United Kingdom",
+    "favicon": "https://sddconf.com/brands/sdd/favicon.ico"
+  },
+  {
+    "name": "Swetugg 2023",
+    "url": "https://swetugg.se/",
+    "datefrom": 2023-02-08T00:00:00,
+    "dateto": 2023-02-09T23:59:59,
+    "flag": "se",
+    "location": "Stockholm, Sweden",
+    "favicon": "https://swetugg.se/favicon-16x16.png"
+  },
+  {
+    "name": "Techorama 2023",
+    "url": "https://techorama.be/",
+    "datefrom": 2023-05-15T00:00:00,
+    "dateto": 2023-05-17T23:59:59,
+    "flag": "nl",
+    "location": "Antwerp, Belgium",
+    "favicon": "https://techorama.be/assets/images/meta/favicon-16x16.png"
+  },
+  {
+    "name": "CodeMash",
+    "url": "https://www.codemash.org/",
+    "datefrom": 2023-01-10T00:00:00,
+    "dateto": 2023-01-13T23:59:59,
+    "flag": "us",
+    "location": "Sandusky, US",
+    "favicon": "https://www.codemash.org/favicon-16x16.png"
+  },
+  {
+    "name": "DevConf",
+    "url": "https://www.devconf.co.za/",
+    "datefrom": 2023-05-23T00:00:00,
+    "dateto": 2023-05-23T23:59:59,
+    "flag": "za",
+    "location": "Cape Town, South Africa",
+    "favicon": "https://www.devconf.co.za/public/favicon-32x32.png"
+  },
+  {
+    "name": "WebExpo 2023",
+    "url": "https://webexpo.net/",
+    "datefrom": 2023-04-19T00:00:00,
+    "dateto": 2023-04-21T23:59:59,
+    "flag": "cz",
+    "location": "Prague, Czech Republic",
+    "favicon": "https://webexpo.net/wp-content/uploads/2022/06/black-trans-144px.png"
+  },
+  {
+    "name": "Update Conference 2023",
+    "url": "https://www.updateconference.net/",
+    "datefrom": 2023-11-23T00:00:00,
+    "dateto": 2023-11-24T23:59:59,
+    "flag": "cz",
+    "location": "Prague, Czech Republic",
+    "favicon": "https://www.updateconference.net/images/favicons/favicon-16x16.png"
+  },
+  {
+    "name": "Thrive",
+    "url": "https://www.thriveconf.com/en/Pages/Home.aspx",
+    "datefrom": 2023-05-30T00:00:00,
+    "dateto": 2023-05-31T23:59:59,
+    "flag": "si",
+    "location": "Lipica, Slovenia",
+    "favicon": "https://www.thriveconf.com/_layouts/15/images/Xnet.SP.ThriveConf19/favicon.png"
+  },
+  {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/wi/2023/",
+    "datefrom": 2023-07-24T00:00:00,
+    "dateto": 2023-07-28T23:59:59,
+    "flag": "us",
+    "location": "Wisconsin, US",
+    "favicon": "https://that.us/favicon-16x16.png"
+  },
+  {
+    "name": "THAT Conference",
+    "url": "https://that.us/events/tx/2023/",
+    "datefrom": 2023-01-15T00:00:00,
+    "dateto": 2023-01-19T23:59:59,
+    "flag": "us",
+    "location": "Round Rock, Texas, US",
+    "favicon": "https://that.us/favicon-16x16.png"
+  },
+  {
+    "name": "Microsoft Tech Conference Austria",
+    "url": "https://www.techconference.at/",
+    "datefrom": 2023-04-19T00:00:00,
+    "dateto": 2023-04-20T23:59:59,
+    "flag": "at",
+    "location": "Wien, Austria",
+    "favicon": "https://www.techconference.at/wp-content/themes/techconference.at/assets/favicon/favicon-16x16.png"
+  },
+  {
+    "name": "Microsoft Ignite 2023",
+    "url": "https://ignite.microsoft.com/en-US/home",
+    "datefrom": 2023-11-15T00:00:00,
+    "dateto": 2023-11-16T23:59:59,
+    "flag": "us",
+    "location": "US",
+    "favicon": "https://eventtools.event.microsoft.com/ignite2022-prod/favicon.ico"
   }
 ]
